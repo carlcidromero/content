@@ -1,0 +1,1 @@
+# Synapse Chat Macros
