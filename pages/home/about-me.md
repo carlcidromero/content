@@ -27,3 +27,9 @@ React, Zustand, Context API, Custom Hooks, Git Hooks, Semantic HTML, Testing Lib
 ## Before Tech
 
 I made music — for _Cyberpunk 2077_ and _UFC 2_.
+
+## About This Website
+
+It's an educational digital garden.
+
+I'm building a 'hello world' distributed system across multiple GitHub repos to help entry- and mid-level software engineers learn about the type of work and processes they'll _hopefully_ work with further in their careers.
