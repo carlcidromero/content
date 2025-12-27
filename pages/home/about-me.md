@@ -30,6 +30,6 @@ I made music — for _Cyberpunk 2077_ and _UFC 2_.
 
 ## About This Website
 
-It's an educational digital garden.
+It's an educational digital garden. Everything about this website is a forever work-in-progress: the books, the blogs, the code — all of it.
 
-I'm building a 'hello world' distributed system across multiple GitHub repos to help entry- and mid-level software engineers learn about the type of work and processes they'll _hopefully_ work with further in their careers.
+I'm building a 'hello world' distributed system across multiple GitHub repos to help entry- and mid-level software engineers learn about the type of work and processes they'll _hopefully_ work with further in their careers. The content, the layout, the code, and beyond (as the system grows) all live in separate repos with various architectural decisions made in the name of accessibility, maintainability, and user experience. If all goes according to plan, readers and contributors can gain hands-on experience with the types of workflows they can expect at larger tech organizations with mature, thoughtful systems.
