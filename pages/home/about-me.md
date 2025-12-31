@@ -28,6 +28,13 @@ React, Zustand, Context API, Custom Hooks, Git Hooks, Semantic HTML, Testing Lib
 
 I made music — most notably for _Cyberpunk 2077_ and _UFC 2_.
 
+## Recommended Reads
+
+- The Phoenix Project
+- The Goal
+- Elegant Objects
+- The Mythical Man-Month
+
 ## About This Website
 
 It's an educational [digital garden](https://maggieappleton.com/garden-history). Everything about this website is a forever work-in-progress: the books, the blogs, the code — all of it.
