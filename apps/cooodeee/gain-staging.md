@@ -41,6 +41,7 @@ No DSP libraries, no ffmpeg.
 
 Implementation
 
+```
 import fs from "fs";
 import decode from "wav-decoder";
 import encode from "wav-encoder";
@@ -95,17 +96,18 @@ export async function normalizeWavToMinus18dBRMS(inputPath, outputPath) {
 
   fs.writeFileSync(outputPath, Buffer.from(outputBuffer));
 }
-
+```
 
 ⸻
 
 Usage
 
+```
 await normalizeWavToMinus18dBRMS(
   "input.wav",
   "output_-18dB.wav"
 );
-
+```
 
 ⸻
 
