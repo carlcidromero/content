@@ -1,0 +1,14 @@
+#a-ghud-wallpaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  color: greenyellow;
+  font-family: monospace;
+}
+
+#a-ghud-wallpaper > ul {
+  padding: 0;
+}
