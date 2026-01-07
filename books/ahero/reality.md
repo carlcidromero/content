@@ -1,9 +1,9 @@
 # Reality
 
-My.
-Your.
+My.  
+Your.  
 Is.
 
-177Y.
-Y0LI12.
+177`/.  
+`/0LI12.  
 15.
