@@ -11,7 +11,13 @@
         "properties": {
           "id": { "type": "string" },
           "text": { "type": "string" },
-          "href": { "type": "string", "format": "uri-reference" }
+          "href": {
+            "type": "string",
+            "anyOf": [
+              { "format": "uri" },
+              { "pattern": "^(?:/|\\./|\\.\\./|[a-zA-Z][a-zA-Z0-9+.-]*:).*$" }
+            ]
+          }
         },
         "required": ["id", "text", "href"],
         "additionalProperties": false
