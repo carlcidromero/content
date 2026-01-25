@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/carlcidromero/content/refs/heads/main/ccrghio/nav/index.schema.json",
+  "$id": "https://raw.githubusercontent.com/carlcidromero/content/main/ccrghio/nav/index.schema.json",
   "type": "object",
   "properties": {
     "$schema": { "type": "string" },
@@ -11,7 +11,7 @@
         "properties": {
           "id": { "type": "string" },
           "text": { "type": "string" },
-          "href": { "type": "string", "format": "uri" }
+          "href": { "type": "string", "format": "uri-reference" }
         },
         "required": ["id", "text", "href"],
         "additionalProperties": false
