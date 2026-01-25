@@ -3,6 +3,7 @@
   "$id": "https://raw.githubusercontent.com/carlcidromero/content/refs/heads/main/ccrghio/nav/index.schema.json",
   "type": "object",
   "properties": {
+    "$schema": { "type": "string" },
     "links": {
       "type": "array",
       "items": {
