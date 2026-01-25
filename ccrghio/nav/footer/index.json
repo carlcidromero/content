@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/carlcidromero/content/main/ccrghio/nav/index.schema.json",
+  "links": [
+    {
+      "id": "bluesky",
+      "text": "Bluesky",
+      "href": "https://bsky.app/profile/carlcidromero.bsky.social"
+    },
+    {
+      "id": "github",
+      "text": "GitHub",
+      "href": "https://github.com/carlcidromero"
+    },
+    {
+      "id": "linkedin",
+      "text": "LinkedIn",
+      "href": "https://linkedin.com/in/carlcidromero"
+    }
+  ]
+}

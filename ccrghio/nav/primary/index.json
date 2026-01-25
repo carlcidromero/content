@@ -1,12 +1,15 @@
 {
-    "links": [
-        {
-            "name": "Home",
-            "href": "/"
-        },
-        {
-            "name": "Blog",
-            "href": "blog"
-        }
-    ]
+  "$schema": "https://raw.githubusercontent.com/carlcidromero/content/main/ccrghio/nav/index.schema.json",
+  "links": [
+    {
+      "id": "home",
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "id": "blog",
+      "text": "Blog",
+      "href": "/blog"
+    }
+  ]
 }
