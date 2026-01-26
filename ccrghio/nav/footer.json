@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/carlcidromero/content/main/ccrghio/nav/index.schema.json",
+  "$schema": "https://raw.githubusercontent.com/carlcidromero/content/main/ccrghio/nav/schema.json",
   "links": [
     {
       "id": "bluesky",
